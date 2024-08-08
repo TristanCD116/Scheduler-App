@@ -12,12 +12,12 @@ Features:
 - Easy input for class details including names, times, and days.
 - Dynamic schedule generation without time conflicts.
 - Real-time updates to class lists.
-- Pre-compiled executable file
+- Pre-compiled [executable file](SCHEDULER_APP.EXE)
 
 ## Install source code
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/class-scheduler-app.git
+   git clone https://github.com/yourusername/Scheduler-App.git
    ```
 2. Navigate to the project directory:
    ```bash
