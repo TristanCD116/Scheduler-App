@@ -10,8 +10,6 @@ import sys
 from PIL import Image, ImageTk
 from tkinter import messagebox
 
-#TODO:  add a backround color, finish all color choices, compile into app
-
 class ScheduleBuilderApp:
 
     class SpinboxWidget():
