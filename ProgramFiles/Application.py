@@ -188,7 +188,7 @@ class ScheduleBuilderApp:
                 accessed_menu_name = widget["menu"]
                 accessed_menu = widget.nametowidget(accessed_menu_name)
 
-                # Print all options in the menu
+                # Get all options in the menu
                 for i in range(accessed_menu.index("end") + 1):
                     item_label.append(accessed_menu.entrycget(i, "label"))
 
